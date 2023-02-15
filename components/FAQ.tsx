@@ -6,7 +6,7 @@ export default function FAQ({ faqs }: { faqs: { question: string; answer: string
             <div className="mx-auto max-w-7xl py-16 px-6 lg:px-8">
                 <div className="mx-auto max-w-2xl text-center">
                     <h2 className="text-2xl font-bold leading-10 tracking-tight text-gray-900">
-                        Frequently asked questions
+                        Frequently Asked Questions
                     </h2>
                 </div>
                 <div className="mt-20">

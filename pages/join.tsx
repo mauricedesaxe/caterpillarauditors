@@ -6,24 +6,24 @@ import { FeatureSet } from '../components/FeatureSet';
 import Navbar from '../components/Navbar';
 
 const copy = {
-    title: 'Join the program',
+    title: 'Become a Caterpillar Auditor',
     subtitle:
-        'We want to help you become a bounty hunter. We will pay you a monthly stipend so you can focus on finding bugs & learning.',
+        'Receive a monthly stipend to supplant the income from your job so you can spend that time increasing your skills, finding bugs, and ultimately replacing your income with bug bounties, contests, and traditional auditing income.',
 };
 
 const features = [
     {
-        name: 'Financial support',
+        name: 'Financial Support',
         description:
-            'We pay you a monthly stipend so you can focus on finding bugs & learning. You do not need to pay us back until you are self-sufficient as an auditor / bounty hunter.',
+            'We pay you a monthly stipend so you can focus on finding bugs & learning.',
         imageSrc:
             'https://images.unsplash.com/photo-1544027993-37dbfe43562a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80',
         imageAlt: 'Man giving a helping hand',
     },
     {
-        name: 'Guidance from experts',
+        name: 'Guidance From Experts',
         description:
-            'We point you to the best resources to learn the skills you need to become a bounty hunter. We also show you the right platforms to find your first bounties.',
+            'We\'re well-connected professional auditors so we can advise you on where to most effectively spend your time.  We want to make the program as successful for you as we can.',
         imageSrc:
             'https://images.unsplash.com/photo-1598618589929-b1433d05cfc6?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80',
         imageAlt: 'A library of books',
@@ -37,7 +37,7 @@ const faqs = [
     },
     {
         question: 'How long does the program last?',
-        answer: 'The program lasts for 3 to 6 months. We will pay you a monthly stipend for the duration of the program.',
+        answer: 'The program duration is flexible depending on grant recipient needs.  However, the typical length is 3 to 6 months.',
     },
     {
         question: 'What happens after the program?',
@@ -53,7 +53,7 @@ const faqs = [
     },
     {
         question: 'How do I apply?',
-        answer: 'You can apply by sending us an email below. We will get back to you as soon as we can.',
+        answer: 'Send an email to join@caterpillarauditors.com with your resume and/or any bugs you\'ve found.',
     },
 ];
 
