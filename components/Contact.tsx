@@ -10,7 +10,7 @@ export default function Contact() {
                         <h2 className="text-2xl font-bold text-gray-900 sm:text-3xl sm:tracking-tight">Join</h2>
                         <div className="mt-3">
                             <p className="text-lg text-gray-500">
-                                Contact us to learn more about the program and how to join.
+                                Contact us to learn more about the program.  We love to hear from aspiring auditors!
                             </p>
                         </div>
                         <div className="mt-9">
@@ -28,7 +28,7 @@ export default function Contact() {
                         <h2 className="text-2xl font-bold text-gray-900 sm:text-3xl sm:tracking-tight">Donate</h2>
                         <div className="mt-3">
                             <p className="text-lg text-gray-500">
-                                Help us bring more people into the program by donating to our cause.
+                                Interested in donating to the Caterpillar Auditors non-profit?
                             </p>
                         </div>
                         <div className="mt-9">
