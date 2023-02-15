@@ -33,27 +33,27 @@ const features = [
 const faqs = [
     {
         question: 'Who is this program for?',
-        answer: 'You do not need to have any prior experience in web3 security, but it is a must that you have at least basic programming skills.',
+        answer: 'The ideal candidate has already found some bugs.  However, we are flexible, so contact us if you think you might be a good fit.',
     },
     {
         question: 'How long does the program last?',
         answer: 'The program duration is flexible depending on grant recipient needs.  However, the typical length is 3 to 6 months.',
     },
-    {
-        question: 'What happens after the program?',
-        answer: 'We can help you find a job as an auditor at one of the organizations that are donors of ours. If you have managed to become self-sufficient as an auditor, we will negociate a payment plan with you such that you repay our investment back.',
-    },
-    {
-        question: 'What if I do not find a job after the program?',
-        answer: 'If you cannot sustain yourself as an auditor after the program, we will not require you to pay us back.',
-    },
-    {
-        question: 'Why do we need the money back if I find a job?',
-        answer: 'We are a non-profit organization and we need to pay our bills. We also need to pay for the next batch of students. The more people pay us back, the more people we can help.',
-    },
+    // {
+    //     question: 'What happens after the program?',
+    //     answer: 'We can help you find a job as an auditor at one of the organizations that are donors of ours. If you have managed to become self-sufficient as an auditor, we will negociate a payment plan with you such that you repay our investment back.',
+    // },
+    // {
+    //     question: 'What if I do not find a job after the program?',
+    //     answer: 'If you cannot sustain yourself as an auditor after the program, we will not require you to pay us back.',
+    // },
+    // {
+    //     question: 'Why do we need the money back if I find a job?',
+    //     answer: 'We are a non-profit organization and we need to pay our bills. We also need to pay for the next batch of students. The more people pay us back, the more people we can help.',
+    // },
     {
         question: 'How do I apply?',
-        answer: 'Send an email to join@caterpillarauditors.com with your resume and/or any bugs you\'ve found.',
+        answer: 'Send an email to join@caterpillarauditors.com with your resume and/or any bugs you\'ve found as well as how long you estimate you\'ll need funding for.',
     },
 ];
 
